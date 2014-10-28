@@ -1,0 +1,25 @@
+// node_modules não é necessário no git, pois as dependências são instaladas através do comando npm install
+{
+  "name": "boilerplate-angular",
+  "version": "1.0.0",
+  "description": "boilerplate-angular ===================",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danilo0792/boilerplate-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilo0792/boilerplate-angular/issues"
+  },
+  "homepage": "https://github.com/danilo0792/boilerplate-angular"
+}
